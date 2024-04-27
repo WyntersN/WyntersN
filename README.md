@@ -27,32 +27,9 @@
 | 移动端 | ![kotlin](https://img.shields.io/badge/-kotlin-00681c?style=flat-square&logo=kotlin&logoColor=white) ![ReactNative](https://img.shields.io/badge/-ReactNative-00681c?style=flat-square&logo=ReactNative&logoColor=white) ![小程序](https://img.shields.io/badge/-小程序-00681c?style=flat-square&logo=weixin&logoColor=white) ![公众号](https://img.shields.io/badge/-公众号-00681c?style=flat-square&logo=weixin&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-00681c?style=flat-square&logo=Flutter&logoColor=white)
 ## 统计
 <p>
-<img style="width: 480px;" src="https://github-readme-stats.vercel.app/api?username=whevether&theme=dracula&show_icons=true&count_private=true&include_all_commits=true&locale=cn&line_height=24&bg_color=00000010&text_color=c78944" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whevether&theme=dracula&layout=compact&locale=cn&langs_count=10&bg_color=00000010&text_color=c78944&hide=HTML,CSS" />
+<img style="width: 480px;" src="https://github-readme-stats.vercel.app/api?username=WyntersN&theme=dracula&show_icons=true&count_private=true&include_all_commits=true&locale=cn&line_height=24&bg_color=00000010&text_color=c78944" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WyntersN&theme=dracula&layout=compact&locale=cn&langs_count=10&bg_color=00000010&text_color=c78944&hide=HTML,CSS" />
 </p>
-
-## 参与贡献 (PR)
-
-| 仓库 | 项目类别 | 星星 | 链接 | 备注 |
-| :--- | :---: | :---: | :---: | :---: |
-| [whevether/asf](https://github.com/whevether/asf) | - | ![](https://img.shields.io/github/stars/microsoft/asf.svg?style=flat-square) | ... | 维护 `asf` |
-| [whevether/asf-react](https://github.com/whevether/asf-react) | - | ![](https://img.shields.io/github/stars/gabime/asfreact.svg?style=flat-square)|
-
-## 当前专注
-
-<p>
-<a href="https://github.com/whevether/asf"><img src="https://github-readme-stats.vercel.app/api/pin/?username=whevether&repo=asf&bg_color=00000010&text_color=c78944" /></a>
-<a href="https://github.com/whevether/asf-react"><img src="https://github-readme-stats.vercel.app/api/pin/?username=whevether&repo=asf-react&bg_color=00000010&text_color=c78944&show_owner=true" /></a>
-<a href="https://github.com/whevether/react-template"><img src="https://github-readme-stats.vercel.app/api/pin/?username=whevether&repo=react-template&bg_color=00000010&text_color=c78944&show_owner=true" /></a>
-</p>
-
-## 项目导航
-
-| 仓库 | 星星 | 描述 |
-| :--- | :---: | :--- |
-| <b>模版</b> |  |  |
-| [react-template](https://github.com/whevether/react-template) :earth_asia: | ![](https://img.shields.io/github/stars/whevether/computer_worldview.svg?style=flat-square) | react webpack 模版|
-
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WyntersN&show_icons=true&theme=tokyonight)
