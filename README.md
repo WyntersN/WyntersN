@@ -28,5 +28,5 @@
 ## 统计
 <p>
 <img style="width: 480px;" src="https://github-readme-stats.vercel.app/api?username=WyntersN&theme=dracula&show_icons=true&count_private=true&include_all_commits=true&locale=cn&line_height=24&bg_color=00000010&text_color=c78944" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WyntersN&theme=dracula&layout=compact&locale=cn&langs_count=10&bg_color=00000010&text_color=c78944&hide=HTML,CSS" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WyntersN&theme=dracula&layout=compact&locale=en&langs_count=10&bg_color=00000010&text_color=c78944&hide=HTML,CSS" />
 </p>
