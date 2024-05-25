@@ -27,6 +27,6 @@
 | 移动端 | ![kotlin](https://img.shields.io/badge/-kotlin-00681c?style=flat-square&logo=kotlin&logoColor=white) ![ReactNative](https://img.shields.io/badge/-ReactNative-00681c?style=flat-square&logo=ReactNative&logoColor=white) ![小程序](https://img.shields.io/badge/-小程序-00681c?style=flat-square&logo=weixin&logoColor=white) ![公众号](https://img.shields.io/badge/-公众号-00681c?style=flat-square&logo=weixin&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-00681c?style=flat-square&logo=Flutter&logoColor=white)
 ## 统计
 <p>
-<img style="width: 480px;" src="https://github-readme-stats.vercel.app/api?username=WyntersN&theme=dracula&show_icons=true&count_private=true&include_all_commits=true&locale=cn&line_height=24&bg_color=00000010&text_color=c78944" />
+<img style="width: 480px;" src="https://github-readme-stats.vercel.app/api?username=WyntersN&theme=dracula&show_icons=true&count_private=true&include_all_commits=true&locale=en&line_height=24&bg_color=00000010&text_color=c78944" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WyntersN&theme=dracula&layout=compact&locale=en&langs_count=10&bg_color=00000010&text_color=c78944&hide=HTML,CSS" />
 </p>
