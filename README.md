@@ -26,6 +26,6 @@
 | 数据库 | ![PostgreSql](https://img.shields.io/badge/-PostgreSql-E34F26?style=flat-square&logo=PostgreSql&logoColor=white) ![Mysql](https://img.shields.io/badge/-Mysql-E34F26?style=flat-square&logo=Mysql&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/-elasticsearch-E34F26?style=flat-square&logo=Es&logoColor=white)
 | 移动端 | ![kotlin](https://img.shields.io/badge/-kotlin-00681c?style=flat-square&logo=kotlin&logoColor=white) ![ReactNative](https://img.shields.io/badge/-ReactNative-00681c?style=flat-square&logo=ReactNative&logoColor=white) ![小程序](https://img.shields.io/badge/-小程序-00681c?style=flat-square&logo=weixin&logoColor=white) ![公众号](https://img.shields.io/badge/-公众号-00681c?style=flat-square&logo=weixin&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-00681c?style=flat-square&logo=Flutter&logoColor=white)
 ## 统计
-<p><img style="width: 480px;" src="https://github-readme-stats.vercel.app/api?username=WyntersN" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WyntersN&theme=dracula&layout=compact&locale=en&langs_count=10&bg_color=00000010&text_color=c78944&hide=HTML,CSS" /></p>
+<p><img style="width: 480px;" src="https://github-readme-stats.vercel.app/api?username=WyntersN" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WyntersN&theme=dracula&layout=compact&locale=en&langs_count=10&bg_color=00000010&text_color=c78944&hide=HTML,CSS" /></p>
 
